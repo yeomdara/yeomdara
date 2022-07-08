@@ -1,4 +1,4 @@
-
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="1000" height="400" />
 <h1 align="center">Hi 👋, I'm Yim Yuthearak</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
